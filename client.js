@@ -7,5 +7,6 @@ function readNow() {
 
 function displaySearch() {
     console.log('test');
-    // $('')
+    
+    $('.search').toggleClass('active');
 }
